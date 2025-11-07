@@ -7,11 +7,21 @@
   <h3 align="center">Fortnite</h3>
   <p align="center">
     Archival project by Versonite
-    <br /><br />
-    <a href="https://github.com/Versonite/Fortnite/tree/main/.usmap"><strong>Mappings »</strong></a>
+    <br/><br/>
+    <a href="#acknowledgements"><strong>Acknowledgements</strong></a><br>
+    <a href="https://github.com/Versonite/Fortnite/tree/main/.usmap"><strong>» Mappings</strong></a>
   </p>
 </div>
 
 <div align="center">
 <br/>
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi?color=ff0de7&logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/t4ctor)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Versonite/Fortnite?style=for-the-badge&logo=&color=gold)](/stargazers)
+
+</div>
+
+### Acknowledgements
+
+Special thanks to **[GMatrixGames](https://github.com/GMatrixGames)** for research, tooling, and archival support.  
+→ [Buy GMatrixGames a Coffee ❤️](https://ko-fi.com/gmatrixgames)
