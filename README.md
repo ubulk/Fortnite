@@ -7,8 +7,8 @@
   <h3 align="center">Fortnite</h3>
   <p align="center">
     Archival project by Versonite
-    <br />
-    <a href="/"><strong>Explore the mappings »</strong></a>
+    <br /><br />
+    <a href="https://github.com/Versonite/Fortnite/tree/main/.usmap"><strong>Mappings »</strong></a>
   </p>
 </div>
 
